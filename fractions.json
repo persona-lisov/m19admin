@@ -1,0 +1,113 @@
+{
+  "fractions": [
+    {
+      "code": "п",
+      "display_name": "Правительство",
+      "deputy_title": "Вице-Губернатора области",
+      "leader_photo_id": "AgACAgIAAxkBAANhaHSheZiSgJ3pNfU4SJWVtfyQfBUAAo_2MRvpFKBLENvQW7hV_F8BAAMCAAN4AAM2BA",
+      "deputy_photo_id": "AgACAgIAAxkBAANjaHShnuXKeQksJ9SffdIU07mxYI4AApXzMRt3qVBJwvS_Twlm_y4BAAMCAAN5AAM2BA"
+    },
+    {
+      "code": "вч",
+      "display_name": "Армия",
+      "deputy_title": "Подполковника",
+      "leader_photo_id": "AgACAgIAAxkBAANhaHSheZiSgJ3pNfU4SJWVtfyQfBUAAo_2MRvpFKBLENvQW7hV_F8BAAMCAAN4AAM2BA",
+      "deputy_photo_id": "AgACAgIAAxkBAANkaHShnpXChm98XLhNIkLQmUYXadsAApfzMRt3qVBJ7KTxjkSRBLgBAAMCAAN5AAM2BA"
+    },
+    {
+      "code": "гб",
+      "display_name": "ГБ",
+      "deputy_title": "Заведующего",
+      "leader_photo_id": "AgACAgIAAxkBAANhaHSheZiSgJ3pNfU4SJWVtfyQfBUAAo_2MRvpFKBLENvQW7hV_F8BAAMCAAN4AAM2BA",
+      "deputy_photo_id": "AgACAgIAAxkBAANlaHShnsaGhI6A5YkW-8pPY3aM4r0AApftMRvOc1lJBtpgtlJ6epIBAAMCAAN5AAM2BA"
+    },
+    {
+      "code": "мвд",
+      "display_name": "МВД",
+      "deputy_title": "Подполковника полиции",
+      "leader_photo_id": "AgACAgIAAxkBAANhaHSheZiSgJ3pNfU4SJWVtfyQfBUAAo_2MRvpFKBLENvQW7hV_F8BAAMCAAN4AAM2BA",
+      "deputy_photo_id": "AgACAgIAAxkBAANmaHShnu_FEDjneTdIQ-gcuPYrfLcAAp3zMRt3qVBJOpfmeEn4EZEBAAMCAAN5AAM2BA"
+    },
+    {
+      "code": "фсб",
+      "display_name": "ФСБ",
+      "deputy_title": "Зам. Начальника",
+      "leader_photo_id": "AgACAgIAAxkBAANhaHSheZiSgJ3pNfU4SJWVtfyQfBUAAo_2MRvpFKBLENvQW7hV_F8BAAMCAAN4AAM2BA",
+      "deputy_photo_id": "AgACAgIAAxkBAANnaHShnpKrEUXLSALr315BI-WI958AAp7zMRt3qVBJ-Xf3_czILV0BAAMCAAN5AAM2BA"
+    },
+    {
+      "code": "mchs",
+      "display_name": "МЧС",
+      "deputy_title": "Подполковника",
+      "leader_photo_id": "AgACAgIAAxkBAANhaHSheZiSgJ3pNfU4SJWVtfyQfBUAAo_2MRvpFKBLENvQW7hV_F8BAAMCAAN4AAM2BA",
+      "deputy_photo_id": "AgACAgIAAxkBAANoaHShnjQarP9IFDYSL_HoyTwpKqwAAp_zMRt3qVBJfu48RgkyIRoBAAMCAAN5AAM2BA"
+    },
+    {
+      "code": "трк",
+      "display_name": "ГТРК Temp",
+      "deputy_title": "Продюсера",
+      "leader_photo_id": "AgACAgIAAxkBAANhaHSheZiSgJ3pNfU4SJWVtfyQfBUAAo_2MRvpFKBLENvQW7hV_F8BAAMCAAN4AAM2BA",
+      "deputy_photo_id": "AgACAgIAAxkBAANpaHShnjmsGhVgErT24a1GHz3Cyl4AAqDzMRt3qVBJaQFtiooHdJ4BAAMCAAN5AAM2BA"
+    },
+    {
+      "code": "о",
+      "display_name": "ОПГ Оффники",
+      "deputy_title": "Авторитета",
+      "leader_photo_id": "AgACAgIAAxkBAANhaHSheZiSgJ3pNfU4SJWVtfyQfBUAAo_2MRvpFKBLENvQW7hV_F8BAAMCAAN4AAM2BA",
+      "deputy_photo_id": "AgACAgIAAxkBAANqaHShnggGEjbYhvpG20Xv5-LrTmwAAqLzMRt3qVBJi51vfqezdvUBAAMCAAN5AAM2BA"
+    },
+    {
+      "code": "т",
+      "display_name": "ОПГ Тамбовское",
+      "deputy_title": "Авторитета",
+      "leader_photo_id": "AgACAgIAAxkBAANhaHSheZiSgJ3pNfU4SJWVtfyQfBUAAo_2MRvpFKBLENvQW7hV_F8BAAMCAAN4AAM2BA",
+      "deputy_photo_id": "AgACAgIAAxkBAANraHShnt_aBuhwh1mFKC-ISYSwTFQAAqPzMRt3qVBJDckIK1G4ycoBAAMCAAN5AAM2BA"
+    },
+    {
+      "code": "к",
+      "display_name": "ОПГ Кавказское",
+      "deputy_title": "Авторитета",
+      "leader_photo_id": "AgACAgIAAxkBAANhaHSheZiSgJ3pNfU4SJWVtfyQfBUAAo_2MRvpFKBLENvQW7hV_F8BAAMCAAN4AAM2BA",
+      "deputy_photo_id": "AgACAgIAAxkBAANsaHShnkpMPk58rxYpJX6iaX5hXRgAAqXzMRt3qVBJBqdNgpEPYrwBAAMCAAN5AAM2BA"
+    }
+  ],
+  "admin_roles": {
+    "basic_admins": {
+      "roles": [
+        "Администратора",
+        "ЗГС Гос", "ЗГС Гетто",
+        "ГС Гос", "ГС Гетто",
+        "Специального следящего",
+        "Куратора семей",
+        "Специалиста по мероприятиям"
+      ],
+      "photo_id": "AgACAgIAAxkBAAN3aHSh4ZtQa5Zfr9XW1Dwz_8Zxy7sAApL2MRvpFKBLnxCFz3vKyVUBAAMCAAN5AAM2BA"
+    },
+    "top_admins": {
+      "roles": [
+        "Доп. зГА", "зГА", "Главного Администратора",
+        "Специалиста по обработке логов"
+      ],
+      "photo_id": "AgACAgIAAxkBAAN5aHSiCgIx_u1G-hZYT5WNOTPVxSgAAq_zMRt3qVBJcjT5Y3-eCa0BAAMCAAN4AAM2BA"
+    },
+    "tech_team": {
+      "roles": [
+        "Команда Матрешки",
+        "Комьюнити Менеджер",
+        "Руководителя Тех. Поддержки"
+      ],
+      "photo_id": "AgACAgIAAxkBAAN7aHSiOA9_QlMtD8j9PXU4ZYWPcQ4AAir7MRsmX6lLbslq-hiGme4BAAMCAAN5AAM2BA"
+    }
+  },
+  "special_posts": {
+    "promo": {
+      "photo_id": null
+    },
+    "events": {
+      "photo_id": "AgACAgIAAxkBAAN9aHSiWwABn8eLO9WJRdUmhk9jgezhAAKV9jEb6RSgS0ikpKycesdEAQADAgADeQADNgQ"
+    },
+    "blat_day": {
+      "photo_id": "AgACAgIAAxkBAAN_aHSia76lKHqjLP8X5dzcahMbqhkAApb2MRvpFKBL4lOrM9XtXwoBAAMCAAN4AAM2BA"
+    }
+  }
+}
