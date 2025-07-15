@@ -77,9 +77,9 @@
         "Администратора",
         "ЗГС Гос", "ЗГС Гетто",
         "ГС Гос", "ГС Гетто",
-        "Специального следящего",
+        "Специалиста по мероприятиям",
         "Куратора семей",
-        "Специалиста по мероприятиям"
+        "Специального следящего"
       ],
       "photo_id": "AgACAgIAAxkBAAN3aHSh4ZtQa5Zfr9XW1Dwz_8Zxy7sAApL2MRvpFKBLnxCFz3vKyVUBAAMCAAN5AAM2BA"
     },
@@ -92,9 +92,9 @@
     },
     "tech_team": {
       "roles": [
-        "Команда Матрешки",
+        "Руководителя Тех. Поддержки",
         "Комьюнити Менеджер",
-        "Руководителя Тех. Поддержки"
+        "Команда Матрешки"
       ],
       "photo_id": "AgACAgIAAxkBAAN7aHSiOA9_QlMtD8j9PXU4ZYWPcQ4AAir7MRsmX6lLbslq-hiGme4BAAMCAAN5AAM2BA"
     }
